@@ -1,5 +1,5 @@
 ---
-title: Samiha Shimmi1
+title: Samiha Shimmi
 role: Graduate Research Assistant at Northern Illinois University
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
