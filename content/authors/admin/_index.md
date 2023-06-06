@@ -1,7 +1,7 @@
 ---
 title: Mona Rahimi
 role: Assistant Professor of Software Engineering
-avatar_filename: m.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
