@@ -1,7 +1,7 @@
 ---
 title: Hamed Barzamini
 role: PhD Student of Software Engineering for Artificial Intelligence
-avatar_filename: 20230408_191445.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Stanford University
     url: ""
