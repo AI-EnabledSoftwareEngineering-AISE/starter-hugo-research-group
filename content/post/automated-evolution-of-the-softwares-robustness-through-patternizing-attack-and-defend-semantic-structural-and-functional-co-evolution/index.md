@@ -2,7 +2,7 @@
 title: Automated Evolution of the Software's Robustness through Patternizing
   Attack-and-defend Semantic, Structural, and Functional Co-Evolution
 subtitle: ""
-date: 2023-06-09T20:26:56.348Z
+date: 2022-07-01T20:26:56.348Z
 image:
   filename: featured.jpg
 ---
