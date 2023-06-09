@@ -3,6 +3,8 @@ title: Automated Evolution of the Software's Robustness through Patternizing
   Attack-and-defend Semantic, Structural, and Functional Co-Evolution
 subtitle: ""
 date: 2023-06-09T20:26:56.348Z
+image:
+  filename: featured.jpg
 ---
 Congratulations to SE4AI LAB for winning grant on Automated Evolution of the Software's Robustness through Patternizing Attack-and-defend Semantic, Structural, and Functional Co-Evolution from "DoD: Office of Naval Research (ONR), Division of Cyber Security and Complex Software Systems: Basic and Applied Scientific Research".
 
