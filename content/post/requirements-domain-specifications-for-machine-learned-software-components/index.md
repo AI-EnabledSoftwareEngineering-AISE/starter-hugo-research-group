@@ -4,6 +4,7 @@ subtitle: ""
 date: 2021-04-01T18:36:05.463Z
 image:
   focal_point: top
+  filename: featured.png
 ---
 Congratulations to RE4AI LAB for winning the NSF grant “NSF: SHF: EAGER: for Transformative Research”.
 
