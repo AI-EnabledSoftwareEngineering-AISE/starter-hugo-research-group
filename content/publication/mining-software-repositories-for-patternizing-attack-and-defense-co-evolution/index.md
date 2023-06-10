@@ -24,8 +24,8 @@ projects:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
-url_dataset: "#"
-url_project: ""
+<!-- url_dataset: "#"
+url_project: "" -->
 publication_short: In *MSR4P&S 2022*
 url_source: "#"
 url_video: "#"
