@@ -7,7 +7,8 @@ authors:
   - Mona Rahimi
   - Michael Vierhauser
 doi: https://doi.org/10.1016/j.jss.2022.111421
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0164121222001297
+publication: Journal of Systems and Software
+publication_short: JSS
 abstract: >-
   Context:
 
@@ -38,6 +39,7 @@ abstract: >-
 
   Visualizing aggregated information from multiple sources provides developers with a more comprehensive intuition of the change and its rationale, facilitating software maintenance tasks.
 draft: false
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0164121222001297
 featured: false
 image:
   filename: featured
