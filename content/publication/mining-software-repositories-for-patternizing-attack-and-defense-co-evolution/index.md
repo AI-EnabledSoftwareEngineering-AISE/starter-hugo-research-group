@@ -8,7 +8,7 @@ abstract: Several evidence indicates that malicious cyber actors learn, adapt,
   defender, as attack-and defend adaptations, for the purpose of determining the
   probability of attackers’ responsive actions.
 slides: null
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://melvidoni.rbind.io/publication/2022-msr4ps-fp.pdf#page=7
 publication_types:
   - "1"
 authors:
