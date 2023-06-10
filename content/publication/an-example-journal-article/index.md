@@ -40,7 +40,7 @@ authors:
   - Rahimi M
   - Alhoori H.
 author_notes: []
-publication: "*Natural Language Processing Journal, 1*"
+publication: "*Natural Language Processing Journal*"
 summary: ""
 url_dataset: ""
 url_project: ""
