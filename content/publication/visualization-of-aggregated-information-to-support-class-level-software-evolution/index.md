@@ -7,6 +7,7 @@ authors:
   - Mona Rahimi
   - Michael Vierhauser
 doi: https://doi.org/10.1016/j.jss.2022.111421
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0164121222001297
 abstract: >-
   Context:
 
