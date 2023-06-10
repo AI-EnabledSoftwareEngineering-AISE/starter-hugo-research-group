@@ -31,22 +31,22 @@ publication_short: In *MSR4P&S 2022*
 <!-- url_video: "#" -->
 <!-- date: 2023-06-09T20:37:12.267Z -->
 <!-- url_slides: "" -->
-<!-- links:
+links:
   - name: Custom Link
-    url: http://example.org -->
-<!-- image:
+    url: http://example.org
+image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z -->
+publishDate: 2017-01-01T00:00:00Z
 <!-- url_poster: "#" -->
 <!-- url_code: "#" -->
 doi: https://doi.org/10.1145/3549035.3561181
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
 
