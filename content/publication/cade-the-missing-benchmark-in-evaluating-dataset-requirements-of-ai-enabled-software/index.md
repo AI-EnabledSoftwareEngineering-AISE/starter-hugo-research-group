@@ -2,6 +2,7 @@
 title: "CADE: The Missing Benchmark in Evaluating Dataset Requirements of
   AI-enabled Software"
 subtitle: Hamed Barzamini, Mona Rahimi
+url_pdf: https://www.researchgate.net/profile/Hamed-Barzamini/publication/365120599_CADE_The_Missing_Benchmark_in_Evaluating_Dataset_Requirements_of_AI-enabled_Software/links/63d5f44bc465a873a267858c/CADE-The-Missing-Benchmark-in-Evaluating-Dataset-Requirements-of-AI-enabled-Software.pdf
 publication_types:
   - "1"
 authors:
