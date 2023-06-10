@@ -7,13 +7,12 @@ abstract: Several evidence indicates that malicious cyber actors learn, adapt,
   patterns of co-evolution, which appear between the cyber attacker and
   defender, as attack-and defend adaptations, for the purpose of determining the
   probability of attackers’ responsive actions.
-slides: null
+<!-- slides: null -->
 url_pdf: https://melvidoni.rbind.io/publication/2022-msr4ps-fp.pdf#page=7
 publication_types:
   - "1"
 authors:
-  - Shimmi
-  - Samiha
+  - Shimmi Samiha
   - and Mona Rahimi
 publication: In *Proceedings of the 1st International Workshop on Mining
   Software Repositories Applications for Privacy and Security*
@@ -22,31 +21,32 @@ tags:
   - Source Themes
 projects:
   - internal-project
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+<!-- summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
-url_dataset: "#"
-url_project: ""
+  condimentum. -->
+<!-- url_dataset: "#" -->
+<!-- url_project: "" -->
 publication_short: In *MSR4P&S 2022*
-url_source: "#"
-url_video: "#"
-date: 2023-06-09T20:37:12.267Z
-url_slides: ""
-links:
+<!-- url_source: "#" -->
+<!-- url_video: "#" -->
+<!-- date: 2023-06-09T20:37:12.267Z -->
+<!-- url_slides: "" -->
+<!-- links:
   - name: Custom Link
-    url: http://example.org
-image:
+    url: http://example.org -->
+<!-- image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
-url_poster: "#"
-url_code: "#"
+publishDate: 2017-01-01T00:00:00Z -->
+<!-- url_poster: "#" -->
+<!-- url_code: "#" -->
 doi: https://doi.org/10.1145/3549035.3561181
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+ -->
