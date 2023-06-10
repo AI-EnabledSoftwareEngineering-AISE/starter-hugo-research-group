@@ -35,10 +35,10 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S2949719123000079
 publication_types:
   - "2"
 authors:
-  - Shahzad M
-  - Freeman C
-  - Rahimi M
-  - Alhoori H.
+  - Murtuza Shahzad
+  - Cole Freeman
+  - Mona Rahimi
+  - Hamed Alhoori
 author_notes: []
 publication: "*Natural Language Processing Journal*"
 summary: ""
@@ -58,7 +58,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2023-06-10T02:50:45.879Z
+date: 2023-05-11T02:50:45.879Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
