@@ -8,8 +8,8 @@ authors:
   - Hamed Barzamini
   - Mona Rahimi
 doi: 10.1109/RE54965.2022.00013
-publication: "*2022 IEEE 30th International Requirements Engineering Conference*"
-publication_short: "*RE*"
+publication: In *2022 IEEE 30th International Requirements Engineering Conference*
+publication_short: In *RE*
 abstract: The inductive nature of artificial neural models makes dataset quality
   a key factor of their proper functionality. For this reason, multiple research
   studies proposed metrics to assess the quality of the models’ datasets, such
