@@ -9,7 +9,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
   arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
   eleifend gravida.
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.researchgate.net/profile/Hamed-Barzamini/publication/366907072_B-AIS_An_Automated_Process_for_Black-box_Evaluation_of_Visual_Perception_in_AI-enabled_Software_against_Domain_Semantics/links/63d5f07dc97bd76a8243c0a0/B-AIS-An-Automated-Process-for-Black-box-Evaluation-of-Visual-Perception-in-AI-enabled-Software-against-Domain-Semantics.pdf
 publication_types:
   - "1"
 authors:
