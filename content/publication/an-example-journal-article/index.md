@@ -39,9 +39,7 @@ authors:
   - Freeman C
   - Rahimi M
   - Alhoori H.
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: "*Natural Language Processing Journal, 1*(1)"
 summary: ""
 url_dataset: ""
