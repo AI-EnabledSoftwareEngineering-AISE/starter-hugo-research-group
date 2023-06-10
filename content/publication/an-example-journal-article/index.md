@@ -31,7 +31,7 @@ abstract: "Social media platforms provide users with various ways of interacting
   in effectively communicating their research and engaging the public in
   scientific discourse."
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2949719123000079
 publication_types:
   - "2"
 authors:
