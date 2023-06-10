@@ -7,8 +7,8 @@ authors:
   - Mona Rahimi
   - Michael Vierhauser
 doi: https://doi.org/10.1016/j.jss.2022.111421
-publication: Journal of Systems and Software
-publication_short: JSS
+publication: In *Journal of Systems and Software*
+publication_short: In *JSS*
 abstract: >-
   Context:
 
