@@ -31,7 +31,7 @@ abstract: Traceability provides support for diverse software engineering
   the evolved trace links are significantly more accurate than those generated
   using only information retrieval techniques.
 draft: false
-url_pdf: https://library.oapen.org/bitstream/handle/20.500.12657/23333/1006822.pdf?sequence=1#page=16
+url_pdf: https://link.springer.com/article/10.1007/s10664-017-9561-x
 featured: false
 image:
   filename: featured
