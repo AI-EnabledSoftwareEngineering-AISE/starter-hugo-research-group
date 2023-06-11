@@ -33,7 +33,7 @@ abstract: Safety Assurance Cases (SACs) are increasingly used to guide and
   potentially impacted system safety and provided information that could be used
   to help maintain and evolve a SAC.
 draft: false
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8933771
+url_pdf: https://www.researchgate.net/profile/Ankit-Agrawal-10/publication/335427254_Leveraging_Artifact_Trees_to_Evolve_and_Reuse_Safety_Cases/links/5d656c44299bf1f70b11f2b6/Leveraging-Artifact-Trees-to-Evolve-and-Reuse-Safety-Cases.pdf
 featured: false
 image:
   filename: featured
