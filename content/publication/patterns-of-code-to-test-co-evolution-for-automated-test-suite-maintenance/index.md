@@ -1,10 +1,10 @@
 ---
 title: Patterns of Code-to-Test Co-evolution for Automated Test Suite Maintenance
-subtitle: Samiha Shimmi, Mona Rahimi
+subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Hamed Barzamini
+  - Samiha Shimmi
   - Mona Rahimi
 doi: 10.1109/ICST53961.2022.00023
 publication: In *2022 IEEE Conference on Software Testing, Verification and
@@ -29,7 +29,7 @@ abstract: Software systems are characterized by continual change which often
   the patterns contained up to 42% of the source code changes and the
   remediation recovered up to 100% of the impacted test cases in certain cases.
 draft: false
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9787880
+url_pdf: https://www.researchgate.net/profile/Hamed-Barzamini/publication/365120599_CADE_The_Missing_Benchmark_in_Evaluating_Dataset_Requirements_of_AI-enabled_Software/links/63d5f44bc465a873a267858c/CADE-The-Missing-Benchmark-in-Evaluating-Dataset-Requirements-of-AI-enabled-Software.pdf
 featured: false
 image:
   filename: featured
