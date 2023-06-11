@@ -15,7 +15,6 @@ authors:
   - and Mona Rahimi
 doi: https://doi.org/10.1145/3549035.3561181
 url_dataset: "#"
-<!-- url_project: "" -->
 publication_short: In *MSR4P&S 2022*
 url_source: "#"
 url_video: "#"
@@ -29,14 +28,7 @@ image:
   focal_point: ""
   preview_only: false
 date: 2022-11-07T21:37:12.267Z
-url_slides: ""
-<!-- links:
-  - name: Custom Link
-    url: http://example.org -->
 projects:
   - internal-project
 publishDate: 2017-01-01T00:00:00.000Z
-<!-- slides: null -->
-url_poster: "#"
-url_code: "#"
 ---
