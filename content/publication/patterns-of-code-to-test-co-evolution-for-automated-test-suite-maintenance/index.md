@@ -29,7 +29,7 @@ abstract: Software systems are characterized by continual change which often
   the patterns contained up to 42% of the source code changes and the
   remediation recovered up to 100% of the impacted test cases in certain cases.
 draft: false
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-41600-3_2
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9787880
 featured: false
 image:
   filename: featured
