@@ -2,6 +2,7 @@
 title: Leveraging code-test co-evolution patterns for automated test case
   recommendation
 subtitle: Samiha Shimmi, Mona Rahimi
+url_pdf: https://dl.acm.org/doi/abs/10.1145/3524481.3527222
 publication_types:
   - "1"
 authors:
