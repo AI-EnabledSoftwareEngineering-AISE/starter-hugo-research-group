@@ -1,6 +1,7 @@
 ---
 title: Improving generalizability of ML-enabled software through domain specification
 subtitle: Hamed Barzamini, Mona Rahimi, Murteza Shahzad, Hamed Alhoori
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3522664.3528589
 publication_types:
   - "1"
 authors:
