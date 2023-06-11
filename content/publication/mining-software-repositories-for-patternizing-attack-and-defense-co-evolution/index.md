@@ -30,9 +30,9 @@ image:
   preview_only: false
 date: 2022-11-07T21:37:12.267Z
 url_slides: ""
-links:
+<!-- links:
   - name: Custom Link
-    url: http://example.org
+    url: http://example.org -->
 projects:
   - internal-project
 publishDate: 2017-01-01T00:00:00.000Z
