@@ -31,7 +31,7 @@ abstract: In current practice, the behavior of Machine-Learned Components (MLCs)
   "pedestrian") and can be used to identify gaps in the associated dataset and
   the constructed machine-learned model.
 draft: false
-url_pdf: https://www.cs.toronto.edu/~boyue/papers/RE_AIRE_2020.pdf
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8933771
 featured: false
 image:
   filename: featured
