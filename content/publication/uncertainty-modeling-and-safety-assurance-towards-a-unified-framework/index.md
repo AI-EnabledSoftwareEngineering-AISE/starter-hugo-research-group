@@ -23,7 +23,7 @@ abstract: Uncertainty occurs naturally in software systems, including those that
   We also discuss a set of challenges that need to be addressed to realize this
   framework.
 draft: false
-url_pdf: https://www.researchgate.net/profile/Hamed-Barzamini/publication/365120599_CADE_The_Missing_Benchmark_in_Evaluating_Dataset_Requirements_of_AI-enabled_Software/links/63d5f44bc465a873a267858c/CADE-The-Missing-Benchmark-in-Evaluating-Dataset-Requirements-of-AI-enabled-Software.pdf
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-41600-3_2
 featured: false
 image:
   filename: featured
