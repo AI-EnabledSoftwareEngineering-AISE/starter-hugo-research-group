@@ -38,7 +38,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Grad Students
 highlight_name: false
 ---
 
