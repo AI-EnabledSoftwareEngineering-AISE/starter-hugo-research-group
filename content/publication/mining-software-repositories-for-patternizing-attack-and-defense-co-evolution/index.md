@@ -14,10 +14,7 @@ authors:
   - Shimmi Samiha
   - and Mona Rahimi
 doi: https://doi.org/10.1145/3549035.3561181
-url_dataset: "#"
 publication_short: In *MSR4P&S 2022*
-url_source: "#"
-url_video: "#"
 publication: In *Proceedings of the 1st International Workshop on Mining
   Software Repositories Applications for Privacy and Security*
 featured: true
