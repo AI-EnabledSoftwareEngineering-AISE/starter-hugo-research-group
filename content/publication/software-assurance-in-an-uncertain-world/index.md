@@ -37,7 +37,7 @@ abstract: >
   argument rigor, semantic evidence composition and applicability to new kinds
   of systems, specifically those relying on ML.
 draft: false
-url_pdf: https://www.researchgate.net/profile/Ankit-Agrawal-10/publication/335427254_Leveraging_Artifact_Trees_to_Evolve_and_Reuse_Safety_Cases/links/5d656c44299bf1f70b11f2b6/Leveraging-Artifact-Trees-to-Evolve-and-Reuse-Safety-Cases.pdf
+url_pdf: https://library.oapen.org/bitstream/handle/20.500.12657/23333/1006822.pdf?sequence=1#page=16
 featured: false
 image:
   filename: featured
