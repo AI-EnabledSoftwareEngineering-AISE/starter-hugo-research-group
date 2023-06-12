@@ -33,7 +33,7 @@ education:
       year: 2021
     - course: Bachelors in Computer Science
       institution: Osmania University
-      year: 2011
+      year: 2018
 email: ""
 user_groups:
   - PhD Students
