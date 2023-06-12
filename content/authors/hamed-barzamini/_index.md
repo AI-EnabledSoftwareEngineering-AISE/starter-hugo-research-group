@@ -8,7 +8,6 @@ organizations:
 superuser: true
 authors:
   - Hamed Barzamini
-url_pdf: https://drive.google.com/file/u/0/d/1LBpxXRymKCaEyASSTfTT7rWYTaNiUkR6/view
 bio: My research interests include AI-enabled Software Engineering, Big Data
   Analytic and Explainable AI (XAI).
 interests:
