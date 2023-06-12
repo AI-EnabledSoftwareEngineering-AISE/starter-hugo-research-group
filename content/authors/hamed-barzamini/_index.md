@@ -3,7 +3,7 @@ title: Hamed Barzamini
 role: PhD Student of Software Engineering for Artificial Intelligence
 avatar_filename: avatar.jpg
 organizations:
-  - name: Stanford University
+  - name: Northern Illinois University
     url: ""
 superuser: true
 authors:
@@ -17,7 +17,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: mailto:hbarzamini@niu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/hamedbarzamini
