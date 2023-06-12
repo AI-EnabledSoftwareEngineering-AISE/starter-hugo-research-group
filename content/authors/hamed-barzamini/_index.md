@@ -4,7 +4,7 @@ role: PhD Student of Software Engineering for Artificial Intelligence
 avatar_filename: avatar.jpg
 organizations:
   - name: Northern Illinois University
-    url: "https://www.niu.edu/index.shtml"
+    url: https://www.niu.edu/index.shtml
 superuser: true
 authors:
   - Hamed Barzamini
@@ -42,4 +42,4 @@ email: ""
 user_groups:
   - PhD Students
 ---
-I am a Ph.D. student in the Department of Computer Science at the Northern Illinois University. My research focus is on the fields of Requirements Engineering for ML-base software components. Currently, I am working on specifying Non-Functional Requirements (NFR), such as re-usability, robustness, and safety, for Artificial Intelligence (AI)-enabled software systems, such as pedestrian detectors in the automotive domain.
+I am a Ph.D. student in the Department of Computer Science at the Northern Illinois University. My research focus is on the fields of Requirements Engineering for ML-base software components. Currently, I am working on specifying Non-Functional Requirements (NFR), such as re-usability, robustness, and safety, for Artificial Intelligence (AI)-enabled software systems, such as pedestrian detectors in the automotive domain. {{% staticref "uploads/Hamed_CV.pdf" "newtab" %}}Download my CV{{% /staticref %}}.
