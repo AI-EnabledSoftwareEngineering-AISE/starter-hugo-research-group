@@ -9,6 +9,7 @@ authors:
   - Hamed Alhoori
   - Mona Rahimi
 doi: https://doi.org/10.1007/s00766-021-00366-0
+url_pdf: https://drive.google.com/file/u/0/d/1LBpxXRymKCaEyASSTfTT7rWYTaNiUkR6/view
 publication: In *Requirements Engineering*
 publication_short: In *RE*
 abstract: "Machine Learning (ML) algorithms are widely used in building
