@@ -4,10 +4,10 @@ role: PhD Student of Software Engineering for Artificial Intelligence
 avatar_filename: avatar.jpg
 organizations:
   - name: Northern Illinois University
-    url: ""
+    url: "https://www.niu.edu/index.shtml"
 superuser: true
 authors:
-  - 吳恩達
+  - Hamed Barzamini
 bio: My research interests include AI-enabled Software Engineering, Big Data
   Analytic and Explainable AI (XAI).
 interests:
