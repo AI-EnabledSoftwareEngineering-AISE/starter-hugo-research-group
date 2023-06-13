@@ -7,7 +7,7 @@ bio: My research interests include Software Engineering and, Mining Software
 interests:
   - Software Engineering
   - Software Maintenance and Evolution
-  - Mining Software Repository
+  - Software Vulnerability Detection
   - Software Testing
 social:
   - icon: envelope
@@ -32,7 +32,7 @@ education:
       year: 2019
     - course: BSc in Computer Science & Engineering
       institution: University of Dhaka, Bangladesh
-      year: 2012
+      year: 2009
 email: ""
 superuser: true
 user_groups:
