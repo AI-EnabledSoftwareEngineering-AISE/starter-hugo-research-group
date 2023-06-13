@@ -2,8 +2,8 @@
 title: Samiha Shimmi
 role: Graduate Research Assistant at Northern Illinois University
 avatar_filename: avatar.jpg
-bio: My research interests include Software Engineering, Mining Software
-  Repository and, Software Testing.
+bio: My research interests include Software Engineering and, Mining Software
+  Repository.
 interests:
   - Software Engineering
   - Software Maintenance and Evolution
