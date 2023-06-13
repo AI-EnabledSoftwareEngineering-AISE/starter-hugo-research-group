@@ -30,7 +30,7 @@ education:
       year: 2024
     - course: Masters in Computer Science
       institution: Northern Illinois University
-      year: 2022
+      year: 2020
     - course: Bachelors in Computer Science
       institution: Osmania University
       year: 2015
