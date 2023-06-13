@@ -10,7 +10,6 @@ interests:
   - Software Maintenance and Evolution
   - Mining Software Repository
   - Software Testing
-  - Software Vulnerability Detection
 social:
   - icon: envelope
     icon_pack: fas
