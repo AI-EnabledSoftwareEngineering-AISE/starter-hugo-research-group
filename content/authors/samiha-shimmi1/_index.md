@@ -2,45 +2,43 @@
 title: Samiha Shimmi
 role: Graduate Research Assistant at Northern Illinois University
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Software Engineering, Software Maintenance
+  and Evolution, Mining Software Repository, Software Testing and, Software
+  Vulnerability Detection..
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering
+  - Software Maintenance and Evolution
+  - Mining Software Repository
+  - Software Testing
+  - Software Vulnerability Detection
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: mailto:samiha_14@yahoo.com
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=GPjTq-QAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/AI-EnabledSoftwareEngineering-AISE
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Northern Illinois University
+    url: https://www.cs.niu.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Computer Science
+      institution: Northern Illinois University
+      year: 2025
+    - course: Ms in Computer Science
+      institution: Florida State University
+      year: 2019
+    - course: BSc in Computer Science & Engineering
+      institution: University of Dhaka, Bangladesh
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: ""
 superuser: true
 user_groups:
   - PhD Students
 highlight_name: false
 ---
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am presently in my third year of Ph.D. studies at Northern Illinois University, with a concentrated interest in the areas of Software Maintenance and Evolution, Mining Software Repositories, Software Testing, and Software Vulnerability Detection. My current research is primarily focused on Software Vulnerability Detection, specifically utilizing Multi-Dimensional Representation of Source Code to identify potential software vulnerabilities. The primary challenge lies in the limited availability of vulnerability datasets, necessitating the innovative use of existing datasets across various dimensions. This approach will enable us to create a multitude of features that can be employed to train Deep Learning models. In the end, my primary research objective is to unveil patterns in how attack and defense mechanisms simultaneously evolve within software systems.
