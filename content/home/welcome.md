@@ -3,7 +3,7 @@ widget: hero
 widget_id: a
 headless: true
 weight: 10
-title: Software Engineering for Artificial Intelligence(SE4AI) Research LAB
+title: Software Engineering for Artificial Intelligence(AISE) Research LAB
 hero_media: welcome.jpg
 design:
   columns: "1"
