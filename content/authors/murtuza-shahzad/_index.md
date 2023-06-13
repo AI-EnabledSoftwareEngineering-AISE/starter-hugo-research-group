@@ -30,12 +30,12 @@ education:
       year: 2024
     - course: Masters in Computer Science
       institution: Northern Illinois University
-      year: 2021
+      year: 2022
     - course: Bachelors in Computer Science
       institution: Osmania University
-      year: 2018
+      year: 2015
 email: ""
 user_groups:
   - PhD Students
 ---
-I love to analyze the data and draw useful insights. I specialize in ML and DL technologies. I have an affinity for Image and Text Processing using Deep Neural Networks. At SE4AI Lab, I have worked on projects related to data augmentation to improve Pedestrian detection systems. I currently work building models to predict Software vulnerabilities.
+I love to analyze the data and draw useful insights. I specialize in ML and DL technologies. I have an affinity for Image and Text Processing using Deep Neural Networks. At AISE Lab, I have worked on projects related to data augmentation to improve Pedestrian detection systems. I currently work on building models to predict Software vulnerabilities.
