@@ -6,7 +6,7 @@ image:
   focal_point: top
   filename: featured.png
 ---
-Congratulations to RE4AI LAB for winning the NSF grant “NSF: SHF: EAGER: for Transformative Research”.
+Congratulations to [S-AISE](https://aiselab.netlify.app/) LAB for winning the NSF grant “NSF: SHF: EAGER: for Transformative Research”.
 
 <!--more-->
 
