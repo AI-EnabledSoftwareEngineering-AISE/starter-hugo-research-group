@@ -2,8 +2,8 @@
 title: Mona Rahimi
 role: Assistant Professor of Software Engineering
 avatar_filename: avatar.jpg
-bio: AI-based Software Engineering, Software Evolution, Requirements
-  Engineering, Safety Assurance
+bio: AI Engineering, AI-based Software Engineering, Software Evolution,
+  Requirements Engineering, Safety Assurance
 interests:
   - AI-based Software Engineering
   - Software Evolution
