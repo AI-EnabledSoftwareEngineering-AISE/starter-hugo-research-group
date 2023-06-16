@@ -1,5 +1,5 @@
 ---
-title: Automated Evolution of the Software's Robustness through Patternizing
+title: Automated Evolution of Softwares Robustness through Patternizing
   Attack-and-defend Semantic, Structural, and Functional Co-Evolution
 subtitle: ""
 date: 2022-07-01T20:26:56.348Z
