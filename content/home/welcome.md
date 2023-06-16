@@ -3,7 +3,7 @@ widget: hero
 widget_id: a
 headless: true
 weight: 10
-title: Software Engineering for Artificial Intelligence(AISE) Research LAB
+title: AI-based Software Engineering (AISE) Research LAB
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-The **Software Engineering for Artificial Intelligence(SE4AI)** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Since its establishment in 2018, the AI-based Software Engineering (AISE) Research LAB has stood as a prominent hub for excellence in software engineering education and practical application. AISE is dedicated to exploring the profound intersections of Artificial Intelligence (AI) and Software Engineering (SE), commonly known as AI4SE. Moreover, the lab strives to cultivate secure and reliable engineering methodologies specifically tailored for the construction of intelligent software, aptly termed SE4AI.
