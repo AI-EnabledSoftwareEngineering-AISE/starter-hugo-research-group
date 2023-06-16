@@ -6,12 +6,12 @@ date: 2022-07-01T20:26:56.348Z
 image:
   filename: featured.jpg
 ---
-Congratulations to SE4AI LAB for winning grant on Automated Evolution of the Software's Robustness through Patternizing Attack-and-defend Semantic, Structural, and Functional Co-Evolution from "DoD: Office of Naval Research (ONR), Division of Cyber Security and Complex Software Systems: Basic and Applied Scientific Research".
+Congratulations to AISE LAB for winning a grant on Automated Evolution of Software Robustness through Patternizing Attack-and-defense Semantic, Structural, and Functional Co-Evolution from "DoD: Office of Naval Research (ONR), Division of Cyber Security and Complex Software Systems: Basic and Applied Scientific Research". 
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+T﻿his project aims to discover and exploit the existing patterns of co-evolution between vulnerability patches and\
+follow-up attacks to predict the attack to be followed after a specific fix was applied in the software\
+artifacts
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+<!--EndFragment-->
