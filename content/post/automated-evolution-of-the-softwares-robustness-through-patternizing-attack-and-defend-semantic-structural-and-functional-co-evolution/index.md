@@ -12,6 +12,4 @@ Congratulations to AISE LAB for winning a grant on Automated Evolution of Softwa
 
 T﻿his project aims to discover and exploit the existing patterns of co-evolution between vulnerability patches and\
 follow-up attacks to predict the attack to be followed after a specific fix was applied in the software\
-artifacts
-
-<!--EndFragment-->
+artifacts.
