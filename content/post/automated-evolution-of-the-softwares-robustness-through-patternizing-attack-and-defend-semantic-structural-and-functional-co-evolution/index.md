@@ -6,7 +6,7 @@ date: 2022-07-01T20:26:56.348Z
 image:
   filename: featured.jpg
 ---
-Congratulations to AISE LAB for winning a grant on Automated Evolution of Software Robustness through Patternizing Attack-and-defense Semantic, Structural, and Functional Co-Evolution from "DoD: Office of Naval Research (ONR), Division of Cyber Security and Complex Software Systems: Basic and Applied Scientific Research". 
+Congratulations to S-AISE LAB for winning a grant on Automated Evolution of Software Robustness through Patternizing Attack-and-defense Semantic, Structural, and Functional Co-Evolution from "DoD: Office of Naval Research (ONR), Division of Cyber Security and Complex Software Systems: Basic and Applied Scientific Research". 
 
 <!--more-->
 
