@@ -3,7 +3,7 @@ widget: hero
 widget_id: a
 headless: true
 weight: 10
-title: Safe AI-based Software Engineering (AISE) Research LAB
+title: Reliable AI-based Software Engineering (AISE) Research LAB
 hero_media: welcome.jpg
 design:
   columns: "1"
@@ -12,4 +12,4 @@ design:
 ---
 <br>
 
-Since its establishment in 2018, the Safe AI-based Software Engineering (S-AISE) Research LAB has stood as a prominent hub for excellence in safe software engineering education and practical application. S-AISE is dedicated to exploring the profound intersections of Safe Artificial Intelligence (AI) and Software Engineering (SE), commonly known as AI4SE. Moreover, the lab strives to cultivate secure and reliable engineering methodologies specifically tailored for the construction of intelligent software, aptly termed SE4AI.
+Since its establishment in 2018, the Reliable AI-based Software Engineering (R-AISE) Research Lab has been a prominent center for excellence in reliable software engineering education and practical application. R-AISE is dedicated to exploring the significant intersections of Reliable Artificial Intelligence (AI) and Software Engineering (SE), commonly referred to as AI4SE. Additionally, the lab aims to develop secure and reliable engineering methodologies specifically designed for the construction of intelligent software, which is referred to as SE4AI.
