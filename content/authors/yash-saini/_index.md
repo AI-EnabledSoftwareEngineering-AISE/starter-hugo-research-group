@@ -15,7 +15,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:yashsaini590@gmail.com"
+    link: mailto:yashsaini590@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/AI-EnabledSoftwareEngineering-AISE
