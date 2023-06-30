@@ -15,12 +15,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jesika.pabello@gmail.com
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/jesika-pabello/
-    icon_pack: fas
-    icon: linkedin
-    label: ""
 education:
   courses:
     - course: BSc in Computer Science
