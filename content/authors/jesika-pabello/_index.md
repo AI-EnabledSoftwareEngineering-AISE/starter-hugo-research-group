@@ -18,7 +18,7 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/jesika-pabello/
-    icon_pack: fab
+    icon_pack: ai
     icon: linkedin
     label: ""
 education:
