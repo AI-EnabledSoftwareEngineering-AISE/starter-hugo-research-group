@@ -18,9 +18,9 @@ social:
   - display:
       header: false
     link: https://www.linkedin.com/in/jesika-pabello/
-    icon_pack: fas
+    icon_pack: fab
     icon: linkedin
-    label: linkedin
+    label: ""
 education:
   courses:
     - course: BSc in Computer Science
