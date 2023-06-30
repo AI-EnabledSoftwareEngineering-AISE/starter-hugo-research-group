@@ -5,7 +5,7 @@ subtitle: ""
 date: 2023-06-30T04:06:09.430Z
 draft: false
 featured: false
-external_link: https://observablehq.com/d/98faa4a83915aedb
+external_link: ""
 links: []
 image:
   filename: featured.png
