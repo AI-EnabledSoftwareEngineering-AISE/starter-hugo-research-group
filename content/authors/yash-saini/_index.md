@@ -18,7 +18,7 @@ social:
     link: mailto:yashsaini590@gmail.com
   - icon: github
     icon_pack: fab
-    link: https://github.com/AI-EnabledSoftwareEngineering-AISE
+    link: https://github.com/flosset
 education:
   courses:
     - course: BSc in Computer Science
