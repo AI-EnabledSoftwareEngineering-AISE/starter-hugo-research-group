@@ -1,5 +1,5 @@
 ---
-title: VENKATA LAKSHMI BHAVANI TIMIDIDHAPATI
+title: Venkata Lakshmi
 role: Masters in Computer Science
 avatar_filename: avatar.jpg
 organizations:
