@@ -20,7 +20,7 @@ content:
     - Researchers
     - PhD Students
     - Master Students
-    - Bachelor Students
+    - Undergraduate Students
     - Administration
     - Visitors
     - Alumni
