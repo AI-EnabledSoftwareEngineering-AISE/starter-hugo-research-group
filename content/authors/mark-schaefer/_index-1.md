@@ -1,5 +1,5 @@
 ---
-title: Mark Schaefer
+title: Nicholas Merryman
 role: "Bachelor of Science In Computer Science "
 avatar_filename: ""
 organizations:
