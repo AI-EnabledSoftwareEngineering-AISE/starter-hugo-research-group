@@ -26,6 +26,6 @@ education:
       year: 2024
 email: ""
 user_groups:
-  - Bachelor Students
+  - Undergraduate Students
 ---
 I am a junior undergraduate in the Department of Computer Science at Northern Illinois University. I spend much of my time working on drastically different projects and am proud to be working with the AISE lab for the summer. I am currently working on making documentation and visualization tool for all CVEs that answer the questions who, how, why, and what are the prerequisites for each of the CVE ids.
