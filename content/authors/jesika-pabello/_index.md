@@ -22,6 +22,6 @@ education:
       year: 2025
 email: ""
 user_groups:
-  - Bachelor Students
+  - Undergraduate Students
 ---
 I am an undergraduate computer science student at Northern Illinois University. Currently, I am pursuing various things within the computer science field to try and find the best fit for me.
