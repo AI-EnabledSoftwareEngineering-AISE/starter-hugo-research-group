@@ -10,7 +10,7 @@ authors:
   - Hamed Barzamini
 bio: ""
 interests:
-  - vulnerability detection
+  - Software Development
 social:
   - icon: envelope
     icon_pack: fas
