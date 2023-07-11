@@ -1,7 +1,7 @@
 ---
 title: Mohan Gadde
 role: Masters in Computer Science
-avatar_filename: ""
+avatar_filename: avatar.jpg
 organizations:
   - name: Northern Illinois University
     url: https://www.niu.edu/index.shtml
