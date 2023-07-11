@@ -1,7 +1,7 @@
 ---
 title: Nicholas Merryman
 role: "Bachelor of Science In Computer Science "
-avatar_filename: ""
+avatar_filename: avatar.jpg
 organizations:
   - name: Northern Illinois University
     url: https://www.niu.edu/index.shtml
