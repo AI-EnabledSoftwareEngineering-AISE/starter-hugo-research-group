@@ -11,7 +11,6 @@ design:
   css_class: null
   background:
     image: will-artificial-intelligence-ai-replace-software-engineering.jpg
-    image_darken: 1
 ---
 <br>
 
