@@ -31,9 +31,6 @@ education:
     - course: M.S., Computer Science
       institution: Southern Illinois University
       year: 2011
-    - course: BSc in Computer Science
-      institution: Tehran University
-      year: 2006
 email: ""
 superuser: true
 user_groups:
