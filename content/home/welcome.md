@@ -3,7 +3,7 @@ widget: hero
 widget_id: a
 headless: true
 weight: 10
-title: Reliable AI-based Software Engineering (RAISE) Center of Excellence
+title: "Reliable AI-based Software Engineering (RAISE) "
 hero_media: welcome.jpg
 design:
   columns: "1"
