@@ -4,13 +4,14 @@ widget_id: a
 headless: true
 weight: 10
 title: "Reliable AI-based Software Engineering (RAISE) "
-hero_media: welcome.jpg
+subtitle: Center of Excellence
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
     image: will-artificial-intelligence-ai-replace-software-engineering.jpg
+hero_media: welcome.jpg
 ---
 <br>
 
