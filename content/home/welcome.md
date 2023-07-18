@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: will-artificial-intelligence-ai-replace-software-engineering.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 <br>
